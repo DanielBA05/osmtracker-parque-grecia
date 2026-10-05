@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layouts>
+    <layout name="root">
+
+        <row>
+            <button type="tag" label="BANCA" />
+            <button type="tag" label="ARBOL" />
+        </row>
+
+        <row>
+            <button type="tag" label="PASO PEATONAL" />
+            <button type="tag" label="SEMAFORO" />
+        </row>
+
+        <row>
+            <button type="tag" label="PARADA TAXI" />
+            <button type="tag" label="FUENTE" />
+        </row>
+
+        <row>
+            <button type="tag" label="PARQUE INFANTIL" />
+            <button type="tag" label="ESTABLECIMIENTO" />
+        </row>
+
+        <row>
+            <button type="tag" label="ACERA" />
+            <button type="tag" label="BASURERO" />
+        </row>
+
+        <row>
+            <button type="picture" label="FOTO" />
+            <button type="textnote" label="NOTA" />
+        </row>
+
+    </layout>
+</layouts>
